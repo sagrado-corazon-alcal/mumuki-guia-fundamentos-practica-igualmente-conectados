@@ -1,0 +1,1 @@
+En este ejercicio y en todos los siguientes podés **usar sin definir** `PonerN(cantidad, color)` y `MoverN(cantidad, direccion)`.
