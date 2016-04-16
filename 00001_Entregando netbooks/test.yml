@@ -16,7 +16,7 @@ examples:
      head 0 0
      
  - arguments:
-   - 3
+   - 0
    initial_board: |
      GBB/1.0
      size 2 2 
