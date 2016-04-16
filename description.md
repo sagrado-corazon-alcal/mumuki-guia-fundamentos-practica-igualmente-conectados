@@ -1,10 +1,10 @@
 El programa **Igualmente Conectados** se encarga de acortar la brecha digital que existe en nuestro país, Mumukilandia. Entre las tareas que desempeñan día a día para lograr cumplir este objetivo se encuentra la distribución de netbooks en todas las escuelas públicas del país, que es llevada a cabo por personas que llamaremos _facilitadores_.
 
-La tarea de un _facilitador_ puede resumirse en los siguientes 3 puntos:
+La tarea de un facilitador puede resumirse en los siguientes tres puntos:
 
-* recorrer cada escuela de una ciudad, averiguando la cantidad de estudiantes que hay y cuántas compus tienen en total;
-* entregar las compus que sean necesarias para que cada estudiante tenga la propia (siempre que haya stock, ya hablaremos de esto más adelante);
-* informar la situación de cada escuela, para facilitarle la tarea al siguiente repartidor.
+* **recorrer cada escuela** de una ciudad, averiguando la cantidad de estudiantes que hay y cuántas compus tienen en total;
+* **entregar las compus** que sean necesarias para que cada estudiante tenga la propia (siempre que haya stock, ya hablaremos de esto más adelante);
+* **informar la situación** de cada escuela, para que el próximo facilitador no vuelva a hacer el mismo trabajo.
 
 En esta oportunidad, aprovecharemos todo lo que sabemos de Gobstones para escribir un pequeño sistema que nos permita simular el trabajo de un _facilitador_.
 
