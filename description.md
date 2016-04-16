@@ -3,7 +3,7 @@ El programa **Igualmente Conectados** se encarga de acortar la brecha digital qu
 La tarea de un _facilitador_ puede resumirse en los siguientes 3 puntos:
 
 * recorrer cada escuela de una ciudad, averiguando la cantidad de estudiantes que hay y cuántas compus tienen en total;
-* entregar las compus que sean necesarias (siempre que haya stock, ya hablaremos de esto más adelante);
+* entregar las compus que sean necesarias para que cada estudiante tenga la propia (siempre que haya stock, ya hablaremos de esto más adelante);
 * informar la situación de cada escuela, para facilitarle la tarea al siguiente repartidor.
 
 En esta oportunidad, aprovecharemos todo lo que sabemos de Gobstones para escribir un pequeño sistema que nos permita simular el trabajo de un _facilitador_.
