@@ -1,0 +1,10 @@
+---
+expectations:
+- binding: EntregarLoQueAlcance
+  inspection: HasArity:0
+- binding: EntregarLoQueAlcance
+  inspection: HasUsage:EntregarNetbooks
+- binding: EntregarLoQueAlcance
+  inspection: HasIf
+- binding: EntregarLoQueAlcance
+  inspection: Not:HasRepeat
