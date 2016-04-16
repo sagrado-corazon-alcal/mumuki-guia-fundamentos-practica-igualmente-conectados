@@ -1,4 +1,4 @@
-El programa **Igualmente Conectados** se encarga de acortar la brecha digital que existe en nuestro país, Mumukilandia. Entre las tareas que desempeñan día a día para lograr cumplir este objetivo se encuentra la distribución de computadoras en todas las escuelas públicas del país, que es llevada a cabo por personas que llamaremos _facilitadores_.
+El programa **Igualmente Conectados** se encarga de acortar la brecha digital que existe en nuestro país, Mumukilandia. Entre las tareas que desempeñan día a día para lograr cumplir este objetivo se encuentra la distribución de netbooks en todas las escuelas públicas del país, que es llevada a cabo por personas que llamaremos _facilitadores_.
 
 La tarea de un _facilitador_ puede resumirse en los siguientes 3 puntos:
 
