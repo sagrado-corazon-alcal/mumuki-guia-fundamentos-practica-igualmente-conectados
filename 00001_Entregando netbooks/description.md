@@ -1,4 +1,4 @@
-Lo primero que te vamos a pedir es un procedimiento que nos sirva para entregar netbooks que, como seguro te imaginaste, las vamos a representar con **bolitas negras**.
+Lo primero que te vamos a pedir es un procedimiento que nos sirva para entregar netbooks que, como seguro te imaginaste, las vamos a **representar** con **bolitas negras**.
 
 Como todavía no tenemos idea de cuántas va a haber que entregar, tu procedimiento tiene que tener un parámetro que indique cuántas entregar.
 
