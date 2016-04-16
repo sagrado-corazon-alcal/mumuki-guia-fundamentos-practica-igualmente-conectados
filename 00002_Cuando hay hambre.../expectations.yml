@@ -1,7 +1,7 @@
 ---
 expectations:
 - binding: EntregarLoQueAlcance
-  inspection: HasArity:0
+  inspection: HasArity:1
 - binding: EntregarLoQueAlcance
   inspection: HasUsage:EntregarNetbooks
 - binding: EntregarLoQueAlcance
