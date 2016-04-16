@@ -1,4 +1,13 @@
-Dada una ciudad codificada en el tablero, el repartidor de netbooks debe ir escuela por escuela entregando las netbooks necesarias, con la limitación de que no puede entregar más
-de 5 por escuela.
+El programa **Igualmente Conectados** se encarga de acortar la brecha digital que existe en nuestro país, Mumukilandia. Entre las tareas que desempeñan día a día para lograr cumplir este objetivo se encuentra la distribución de computadoras en todas las escuelas públicas del país, que es llevada a cabo por personas que llamaremos _facilitadores_.
 
-Además, el repartidor debe ir marcando las escuelas con el faltante correspondiente en caso de que no alcance a cumplir su trabajo.
+La tarea de un _facilitador_ puede resumirse en los siguientes 3 puntos:
+
+* recorrer cada escuela de una ciudad, averiguando la cantidad de estudiantes que hay y cuántas compus tienen en total;
+* entregar las compus que sean necesarias (siempre que haya stock, ya hablaremos de esto más adelante);
+* informar la situación de cada escuela, para facilitarle la tarea al siguiente repartidor.
+
+En esta oportunidad, aprovecharemos todo lo que sabemos de Gobstones para escribir un pequeño sistema que nos permita simular el trabajo de un _facilitador_.
+
+:scream: _¿En Gobstones? Pero si lo único que se puede hacer es poner y sacar bolitas, ¡es imposible!_
+<br>
+:smirk: ¡Grave error! En esta lección te vamos a mostrar como podemos usar las bolitas para **modelar** lo que se nos ocurra. Sólo vamos a necesitar un poquito de imaginación de tu parte y que nos ayudes a **pensar buenos nombres** para las tareas que programemos.
