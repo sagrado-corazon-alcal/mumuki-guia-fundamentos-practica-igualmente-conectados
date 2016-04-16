@@ -4,7 +4,7 @@ La tarea de un facilitador puede resumirse en los siguientes tres puntos:
 
 * **recorrer cada escuela** de una ciudad, averiguando la cantidad de estudiantes que hay y cuántas compus tienen en total;
 * **entregar las compus** que sean necesarias para que cada estudiante tenga la propia (siempre que haya stock, ya hablaremos de esto más adelante);
-* **informar la situación** de cada escuela, para que el próximo facilitador no vuelva a hacer el mismo trabajo.
+* **informar la situación** de cada escuela, para ahorrarle trabajo al próximo facilitador.
 
 En esta oportunidad, aprovecharemos todo lo que sabemos de Gobstones para escribir un pequeño sistema que nos permita simular el trabajo de un _facilitador_.
 
