@@ -6,7 +6,7 @@ La tarea de un facilitador puede resumirse en los siguientes tres puntos:
 * **entregar las compus** que sean necesarias para que cada estudiante tenga la propia (siempre que haya stock, ya hablaremos de esto más adelante);
 * **informar la situación** de cada escuela, para ahorrarle trabajo al próximo facilitador.
 
-En esta oportunidad, aprovecharemos todo lo que sabemos de Gobstones para escribir un pequeño sistema que nos permita simular el trabajo de un _facilitador_.
+En esta oportunidad, aprovecharemos todo lo que sabemos de Gobstones para escribir un pequeño sistema que nos permita simular el trabajo de un facilitador.
 
 :scream: _¿En Gobstones? Pero si lo único que se puede hacer es poner y sacar bolitas, ¡es imposible!_
 <br>
