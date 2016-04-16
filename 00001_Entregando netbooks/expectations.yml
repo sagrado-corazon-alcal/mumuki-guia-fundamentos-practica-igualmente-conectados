@@ -1,0 +1,8 @@
+---
+expectations:
+- binding: EntregarNetbooks
+  inspection: HasArity:1
+- binding: EntregarNetbooks
+  inspection: HasUsage:PonerN
+- binding: EntregarNetbooks
+  inspection: Not:HasRepeat
