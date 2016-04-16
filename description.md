@@ -8,6 +8,8 @@ La tarea de un facilitador puede resumirse en los siguientes tres puntos:
 
 En esta oportunidad, aprovecharemos todo lo que sabemos de Gobstones para escribir un pequeño sistema que nos permita simular el trabajo de un facilitador.
 
+---
+
 :scream: _¿En Gobstones? Pero si lo único que se puede hacer es poner y sacar bolitas, ¡es imposible!_
 <br>
 :smirk: ¡Grave error! En esta lección te vamos a mostrar como podemos usar las bolitas para **modelar** lo que se nos ocurra. Sólo vamos a necesitar un poquito de imaginación de tu parte y que nos ayudes a **pensar buenos nombres** para las tareas que programemos.
