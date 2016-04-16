@@ -1,0 +1,43 @@
+check_head_position: true
+
+subject: EntregarLoQueAlcance
+
+examples:
+ - title: EntregarLoQueAlcance(3) - entrega todas
+   arguments:
+   - 3
+   initial_board: |
+     GBB/1.0
+     size 2 2 
+     head 0 0
+   final_board: |
+     GBB/1.0
+     size 2 2
+     cell 0 0 Negro 3
+     head 0 0
+ 
+ - title: EntregarLoQueAlcance(5) - entrega todas
+   arguments:
+   - 5
+   initial_board: |
+     GBB/1.0
+     size 2 2 
+     head 0 0
+   final_board: |
+     GBB/1.0
+     size 2 2
+     cell 0 0 Negro 5
+     head 0 0
+     
+ - title: EntregarLoQueAlcance(6) - entrega sólo cinco
+   arguments:
+   - 6
+   initial_board: |
+     GBB/1.0
+     size 2 2 
+     head 0 0
+   final_board: |
+     GBB/1.0
+     size 2 2
+     cell 0 0 Negro 5     
+     head 0 0     
