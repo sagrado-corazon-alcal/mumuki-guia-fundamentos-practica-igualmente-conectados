@@ -6,6 +6,7 @@ beta: false
 language: gobstones
 id_format: '%05d'
 order:
+- 3
 - 1
 - 2
-- 3
+- 4

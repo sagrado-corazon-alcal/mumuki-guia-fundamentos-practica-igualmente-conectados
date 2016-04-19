@@ -7,5 +7,6 @@ Si bien podríamos usar directamente `Azul` cada vez que querramos hablar de est
 3. nos cuesta mucho más "despegarnos" del tablero, porque seguimos expresando nuestro problema en términos de bolitas.
 
 > Por todo esto, te vamos a pedir entonces que definas las siguientes funciones:
+>
 > * `colorEstudiantes()`, que denote `Azul`;
 > * `cantidadEstudiantes()`, que utilice la anterior y nos diga cuántos estudiantes hay en la celda actual.

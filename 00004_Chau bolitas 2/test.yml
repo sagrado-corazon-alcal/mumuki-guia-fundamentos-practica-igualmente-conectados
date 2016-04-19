@@ -1,0 +1,16 @@
+subject: cantidadNetbooks
+
+examples:
+ - initial_board: |
+     GBB/1.0
+     size 1 1
+     cell 0 0 Negro 5
+     head 0 0
+   return: 5
+     
+ - initial_board: |
+     GBB/1.0
+     size 1 1 
+     cell 0 0 Negro 0
+     head 0 0
+   return: 2
