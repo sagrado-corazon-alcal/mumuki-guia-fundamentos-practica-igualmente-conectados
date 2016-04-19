@@ -7,6 +7,6 @@ language: gobstones
 id_format: '%05d'
 order:
 - 3
+- 4
 - 1
 - 2
-- 4

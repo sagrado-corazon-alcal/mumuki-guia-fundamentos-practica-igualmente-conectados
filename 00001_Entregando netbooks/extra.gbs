@@ -5,3 +5,7 @@ procedure PonerN(n, color) {
 procedure MoverN(n, dir) {
   repeat(n) { Mover(dir) }
 }
+
+function colorNetbooks() {
+  return (Negro)
+}

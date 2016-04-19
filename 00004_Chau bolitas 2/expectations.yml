@@ -1,0 +1,10 @@
+---
+expectations:
+- binding: colorNetbooks
+  inspection: HasBinding
+- binding: colorNetbooks
+  inspection: HasArity:0
+- binding: cantidadNetbooks
+  inspection: HasUsage:colorNetbooks
+- binding: cantidadNetbooks
+  inspection: HasArity:0

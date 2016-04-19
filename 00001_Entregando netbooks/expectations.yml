@@ -6,3 +6,5 @@ expectations:
   inspection: HasUsage:PonerN
 - binding: EntregarNetbooks
   inspection: Not:HasRepeat
+- binding: EntregarNetbooks
+  inspection: HasUsage:colorNetbooks
