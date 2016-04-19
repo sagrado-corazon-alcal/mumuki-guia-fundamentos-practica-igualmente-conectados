@@ -1,0 +1,10 @@
+---
+expectations:
+- binding: colorEstudiantes
+  inspection: HasBinding
+- binding: cantidadEstudiantes
+  inspection: HasUsage:colorEstudiantes
+- binding: cantidadEstudiantes
+  inspection: HasArity:0
+- binding: colorEstudiantes
+  inspection: HasArity:0
