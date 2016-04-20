@@ -2,14 +2,9 @@
 expectations:
 - binding: EntregarNetbooks
   inspection: HasArity:1
-  verb: 
-  transitive: false
 - binding: EntregarNetbooks
   inspection: HasUsage:PonerN
-  verb: 
 - binding: EntregarNetbooks
   inspection: Not:HasRepeat
-  verb: 
 - binding: EntregarNetbooks
   inspection: HasUsage:colorNetbooks
-  verb: 
