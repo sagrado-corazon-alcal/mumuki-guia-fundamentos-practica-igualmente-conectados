@@ -13,4 +13,4 @@ examples:
      size 1 1 
      cell 0 0 Azul 0
      head 0 0
-   return: 2
+   return: 0
