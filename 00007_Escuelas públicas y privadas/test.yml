@@ -1,0 +1,40 @@
+check_head_position: true
+
+subject: HacerTrabajoSiCorresponde
+
+examples:
+ - title: Si faltan más de 5 compus, entrega las que puede y marca cuántas faltan
+   initial_board: |
+     GBB/1.0
+     size 1 1 
+     cell 0 0 Azul 25 Negro 10
+     head 0 0
+   final_board: |
+     GBB/1.0
+     size 1 1 
+     cell 0 0 Azul 25 Negro 15 Rojo 10
+     head 0 0
+ 
+ - title: Si sobran compus, no entrega nada y marca cuántas sobran
+   initial_board: |
+     GBB/1.0
+     size 1 1 
+     cell 0 0 Azul 20 Negro 26
+     head 0 0
+   final_board: |
+     GBB/1.0
+     size 1 1 
+     cell 0 0 Azul 20 Negro 26 Verde 6
+     head 0 0
+     
+ - title: Si faltan menos de 5 compus, las entrega y no marca nada
+   initial_board: |
+     GBB/1.0
+     size 1 1 
+     cell 0 0 Azul 23 Negro 20
+     head 0 0
+   final_board: |
+     GBB/1.0
+     size 1 1 
+     cell 0 0 Azul 23 Negro 23
+     head 0 0
