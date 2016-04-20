@@ -1,0 +1,20 @@
+---
+expectations:
+- binding: ReportarSituacion
+  inspection: HasArity:0
+- binding: ReportarSituacion
+  inspection: HasUsage:cantidadNetbooks
+- binding: ReportarSituacion
+  inspection: HasUsage:cantidadEstudiantes
+- binding: ReportarSituacion
+  inspection: Not:HasRepeat
+- binding: ReportarSituacion
+  inspection: HasUsage:PonerN
+- binding: ReportarSituacion
+  inspection: HasUsage:colorSobrantes
+- binding: ReportarSituacion
+  inspection: HasUsage:colorFaltantes
+- binding: colorSobrantes
+  inspection: HasBinding
+- binding: colorFaltantes
+  inspection: HasBinding

@@ -1,0 +1,40 @@
+check_head_position: true
+
+subject: ReportarSituacion
+
+examples:
+ - title: Si faltan compus, marca con bolitas rojas
+   initial_board: |
+     GBB/1.0
+     size 1 1 
+     cell 0 0 Azul 25 Negro 10
+     head 0 0
+   final_board: |
+     GBB/1.0
+     size 1 1 
+     cell 0 0 Azul 25 Negro 10 Rojo 15
+     head 0 0
+ 
+ - title: Si sobran compus, marca con bolitas verdes
+   initial_board: |
+     GBB/1.0
+     size 1 1 
+     cell 0 0 Azul 20 Negro 26
+     head 0 0
+   final_board: |
+     GBB/1.0
+     size 1 1 
+     cell 0 0 Azul 20 Negro 26 Verde 6
+     head 0 0
+     
+ - title: Si hay la misma cantidad de compus que de estudiantes, no marca nada
+   initial_board: |
+     GBB/1.0
+     size 1 1 
+     cell 0 0 Azul 20 Negro 20
+     head 0 0
+   final_board: |
+     GBB/1.0
+     size 1 1 
+     cell 0 0 Azul 20 Negro 20
+     head 0 0
