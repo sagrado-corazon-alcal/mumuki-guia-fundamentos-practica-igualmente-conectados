@@ -26,6 +26,14 @@ procedure EntregarNetbooks(cantidad) {
   PonerN(cantidad, colorNetbooks())
 }
 
+procedure EntregarLoQueAlcance(cantidadSolicitada) {
+    if (cantidadSolicitada < 5) {
+        EntregarNetbooks(cantidadSolicitada)
+    } else {
+        EntregarNetbooks(5)
+    }
+}
+
 procedure ReportarSituacion() {
 	if (cantidadEstudiantes() > cantidadNetbooks()) {
 		PonerMarca(cantidadEstudiantes() - cantidadNetbooks(), colorFaltantes())
