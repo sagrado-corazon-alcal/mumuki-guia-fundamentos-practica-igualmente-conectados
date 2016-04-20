@@ -1,6 +1,6 @@
 check_head_position: true
 
-subject: ReportarSituacion
+subject: HacerTrabajoEnEscuela
 
 examples:
  - title: Si faltan más de 5 compus, entrega las que puede y marca cuántas faltan
