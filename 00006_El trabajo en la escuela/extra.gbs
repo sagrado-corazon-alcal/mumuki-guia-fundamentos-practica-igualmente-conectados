@@ -1,0 +1,49 @@
+procedure PonerN(n, color) {
+  repeat(n) { Poner(color) }
+}
+
+procedure MoverN(n, dir) {
+  repeat(n) { Mover(dir) }
+}
+
+function colorNetbooks() {
+  return (Negro)
+}
+
+function cantidadNetbooks() {
+  return (nroBolitas(colorNetbooks()))
+}
+
+function colorEstudiantes() {
+  return (Azul)
+}
+
+function cantidadEstudiantes() {
+  return (nroBolitas(colorEstudiantes()))
+}
+
+procedure EntregarNetbooks(cantidad) {
+  PonerN(cantidad, colorNetbooks())
+}
+
+procedure ReportarSituacion() {
+	if (cantidadEstudiantes() > cantidadNetbooks()) {
+		PonerMarca(cantidadEstudiantes() - cantidadNetbooks(), colorFaltantes())
+	}
+	
+	if (cantidadEstudiantes() < cantidadNetbooks()) {
+		PonerMarca(cantidadNetbooks() - cantidadEstudiantes(), colorSobrantes())
+	}
+}
+
+procedure PonerMarca(cantidad, color) {
+    PonerN(cantidad, color)
+}
+
+function colorSobrantes() {
+    return (Verde)
+}
+
+function colorFaltantes() {
+    return (Rojo)
+}

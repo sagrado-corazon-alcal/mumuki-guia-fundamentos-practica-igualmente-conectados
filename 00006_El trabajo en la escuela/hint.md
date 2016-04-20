@@ -1,0 +1,1 @@
+Aunque pueda parecer que es un procedimiento complejo, la solución no debería tener más de 4 líneas, porque ya nos encargamos en los puntos anteriores de resolver la mayoría de las subtareas que necesitás usar acá.
