@@ -9,3 +9,15 @@ procedure MoverN(n, dir) {
 function colorNetbooks() {
   return (Negro)
 }
+
+function cantidadNetbooks() {
+  return (nroBolitas(colorNetbooks()))
+}
+
+function colorEstudiantes() {
+  return (Azul)
+}
+
+function cantidadEstudiantes() {
+  return (nroBolitas(colorEstudiantes()))
+}
