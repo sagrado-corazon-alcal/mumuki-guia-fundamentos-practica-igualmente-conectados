@@ -1,3 +1,3 @@
-Vamos a utilizar bolitas de color `Negro` para representar cuántas netbooks hay en una escuela.
+Lo siguiente que vamos a necesitar representar es cuántas netbooks hay actualmente en una escuela en particular, y para ello vamos a utilizar bolitas de color `Negro`.
 
 > Similar a lo que hiciste en el ejercicio anterior, definí las funciones `colorNetbooks()` y `cantidadNetbooks()`.
