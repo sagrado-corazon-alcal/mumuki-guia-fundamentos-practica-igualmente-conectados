@@ -8,3 +8,5 @@ expectations:
   inspection: HasIf
 - binding: EntregarLoQueAlcance
   inspection: Not:HasRepeat
+- binding: EntregarLoQueAlcance
+  inspection: Not:HasUsage:PonerN
