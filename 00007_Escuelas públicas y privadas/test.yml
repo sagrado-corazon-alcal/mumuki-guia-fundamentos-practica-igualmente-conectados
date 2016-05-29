@@ -1,40 +1,27 @@
 check_head_position: true
 
-subject: HacerTrabajoSiCorresponde
+subject: hayEscuelaPublica
 
 examples:
- - title: Si faltan más de 5 compus, entrega las que puede y marca cuántas faltan
+ - title: Cuando no hay nada, devuelve False
    initial_board: |
      GBB/1.0
      size 1 1 
-     cell 0 0 Azul 25 Negro 10
      head 0 0
-   final_board: |
-     GBB/1.0
-     size 1 1 
-     cell 0 0 Azul 25 Negro 15 Rojo 10
-     head 0 0
- 
- - title: Si sobran compus, no entrega nada y marca cuántas sobran
+   return: 'False'
+   
+ - title: Cuando hay una privada, devuelve False
    initial_board: |
      GBB/1.0
      size 1 1 
-     cell 0 0 Azul 20 Negro 26
+     cell Verde 1 Azul 1
      head 0 0
-   final_board: |
-     GBB/1.0
-     size 1 1 
-     cell 0 0 Azul 20 Negro 26 Verde 6
-     head 0 0
-     
- - title: Si faltan menos de 5 compus, las entrega y no marca nada
+   return: 'False'
+    
+ - title: Cuando hay una pública, devuelve True
    initial_board: |
      GBB/1.0
      size 1 1 
-     cell 0 0 Azul 23 Negro 20
+     cell Azul 30 Negro 10
      head 0 0
-   final_board: |
-     GBB/1.0
-     size 1 1 
-     cell 0 0 Azul 23 Negro 23
-     head 0 0
+   return: 'True'
