@@ -1,0 +1,1 @@
+Lo importante acá es que las escuelas privadas no informan la cantidad de estudiantes que tienen y por lo tanto **no habrá bolitas azules**.

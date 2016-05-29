@@ -14,7 +14,7 @@ examples:
    initial_board: |
      GBB/1.0
      size 1 1 
-     cell 0 0 Verde 1 Azul 1
+     cell 0 0 Negro 40
      head 0 0
    return: 'False'
     
