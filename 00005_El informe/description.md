@@ -6,4 +6,5 @@ Pueden darse tres situaciones:
 1. que haya **menos** netbooks que estudiantes, en cuyo caso dejaremos tantas bolitas de color `Rojo` como computadoras falten;
 1. que haya exactamente la misma cantidad, en cuyo caso no haremos nada.
 
-> Escribí el procedimiento `ReportarSituacion`, que asumiendo que el facilitador está en una escuela, informe la situación correspondiente según lo explicado anteriormente.
+> * Definí las funciones `colorSobrantes()` y `colorFaltantes()` para **encapsular** el color de las marcas.
+> * Escribí el procedimiento `ReportarSituacion`, que asumiendo que el facilitador está en una escuela, informe la situación correspondiente según lo explicado anteriormente. ¡Utilizá las funciones que creaste!

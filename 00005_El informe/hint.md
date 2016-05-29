@@ -1,1 +1,0 @@
-No te olvides de definir las funciones `colorSobrantes()` y `colorFaltantes()` para **encapsular** el color de las marcas.
