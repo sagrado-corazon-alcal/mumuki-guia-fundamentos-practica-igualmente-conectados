@@ -1,0 +1,10 @@
+---
+expectations:
+- binding: LaburarEnCalle
+  inspection: HasArity:1
+- binding: LaburarEnCalle
+  inspection: HasRepeat
+- binding: LaburarEnCalle
+  inspection: HasUsage:HacerTrabajoEnEscuela
+- binding: LaburarEnCalle
+  inspection: HasUsage:hayEscuelaPublica
