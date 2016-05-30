@@ -32,5 +32,5 @@ examples:
      size 1 6 
      cell 0 2 Negro 30
      cell 0 3 Azul 30 Negro 30
-     cell 0 5 Azul 70 Negro 80
+     cell 0 5 Azul 70 Negro 80 Verde 10
      head 0 0     
