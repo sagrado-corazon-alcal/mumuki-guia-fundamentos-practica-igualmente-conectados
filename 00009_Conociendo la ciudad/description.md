@@ -2,7 +2,7 @@ Nos queda el último pasito, hacer que un facilitador recorra una ciudad complet
 
 ![ciudad](https://raw.githubusercontent.com/sagrado-corazon-alcal/mumuki-guia-fundamentos-practica-igualmente-conectados/master/images/ciudad.png)
 
-Algunas indicaciones:
+Cada ciudad tiene una cantidad de calles diferente, y a su vez cada calle tiene su propia longitud. Esto ya viene señalizado por nosotros en el tablero de la siguiente manera:
 
 * las bolitas rojas del origen indican **cuántas calles tiene** nuestra ciudad;
 * las bolitas verdes de cada fila indican **qué tan larga es la calle**.
