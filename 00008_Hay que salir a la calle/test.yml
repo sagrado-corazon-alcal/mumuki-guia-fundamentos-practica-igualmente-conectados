@@ -9,11 +9,11 @@ examples:
      GBB/1.0
      size 1 4 
      cell 0 1 Azul 25 Negro 10
-     cell 0 2 Negro 30
+     cell 0 3 Negro 30
      head 0 0
    final_board: |
      GBB/1.0
      size 1 4 
      cell 0 1 Azul 25 Negro 15 Rojo 10
-     cell 0 2 Negro 30
+     cell 0 3 Negro 30
      head 0 0
