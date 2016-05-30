@@ -1,0 +1,3 @@
+Si bien en esta guía no aprendimos ninguna herramienta nueva, sí vimos algo muy importante: **cómo modelar dominios usando las bolitas de Gobstones**. Esto nos abre un nuevo universo de posibilidades, ya que finalmente podemos empezar a **expresar nuestros programas** en términos de los **problemas** reales que queremos **resolver**.
+
+Desde ahora todos los ejercicios que hagamos tendrán algún dominio asociado. ¡Decile chau a las bolitas! :wave:
