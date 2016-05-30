@@ -30,7 +30,7 @@ examples:
    final_board: |
      GBB/1.0
      size 6 1 
-     cell 2 0  Negro 30
+     cell 2 0 Negro 30
      cell 3 0 Azul 30 Negro 30
      cell 5 0 Azul 70 Negro 80 Verde 10
      head 0 0     
