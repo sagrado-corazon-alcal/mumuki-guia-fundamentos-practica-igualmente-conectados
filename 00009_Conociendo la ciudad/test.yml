@@ -50,4 +50,4 @@ examples:
      cell 4 5 Azul 2 Negro 2 Rojo 0 Verde 0
      cell 0 6 Azul 0 Negro 0 Rojo 0 Verde 1
      cell 1 6 Azul 1 Negro 2 Rojo 0 Verde 0
-     head 0 5
+     head 0 6
