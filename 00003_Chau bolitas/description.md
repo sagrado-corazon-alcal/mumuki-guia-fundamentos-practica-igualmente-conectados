@@ -8,5 +8,5 @@ Si bien podríamos usar directamente `Azul` cada vez que querramos hablar de est
 
 > Por todo esto, te vamos a pedir entonces que definas las siguientes funciones:
 >
-> * `colorEstudiantes()`, que denote `Azul`;
+> * `colorEstudiantes()`, que denote el color `Azul` (sí, así de sencilla como te la imaginás);
 > * `cantidadEstudiantes()`, que utilice la anterior y nos diga cuántos estudiantes hay en la celda actual.
