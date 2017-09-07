@@ -1,4 +1,4 @@
-Por directivas de la nueva gestión del programa, los facilitadores sólo podran entregar hasta cinco netbooks por cada visita que hagan a una escuela. Tendremos, entonces, que codificar un nuevo procedimiento que se comporte de esta forma:
+Por directivas de la nueva gestión del programa, los facilitadores sólo podrán entregar hasta cinco netbooks por cada visita que hagan a una escuela. Tendremos, entonces, que codificar un nuevo procedimiento que se comporte de esta forma:
 
 * si se solicitaron menos de 5 máquinas, entregar todas;
 * en otro caso, entregar sólo 5.
