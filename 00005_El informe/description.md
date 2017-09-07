@@ -1,4 +1,4 @@
-Luego de entregar las netbooks, el facilitador debe realizar un informe donde conste la situación de cada escuela que haya visitado. Dicho informe lo representaremos “marcando” cada escuela con bolitas verdes o rojas, dependiendo de la situación
+Luego de entregar las netbooks, el facilitador debe realizar un informe donde conste la situación de cada escuela que haya visitado. Dicho informe lo representaremos “marcando” cada escuela con bolitas verdes o rojas, dependiendo de la situación.
 
 Pueden darse tres situaciones:
 
