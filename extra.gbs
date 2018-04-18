@@ -1,7 +1,12 @@
 procedure PonerN(n, color) {
-  repeat(n) { Poner(color) }
+  repeat(n) { 
+    Poner(color)
+    
+  }
 }
 
-procedure MoverN(n, dir) {
-  repeat(n) { Mover(dir) }
+procedure MoverN(n, direccion) {
+  repeat(n) { 
+    Mover(direccion)
+  }
 }
