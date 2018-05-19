@@ -1,1 +1,2 @@
-Acordate que ya definiste un procedimiento que sirve para entregar cualquier cantidad de netbooks, llamado `EntregarNetbooks`.
+- Acordate que ya definiste un procedimiento que sirve para entregar cualquier cantidad de netbooks, llamado `EntregarNetbooks`;
+- con entregar _"todas las solicitadas"_ nos referimos a la cantidad recibida por parámetro, no a la cantidad que obtenemos con `cantidadNetbooks`.
