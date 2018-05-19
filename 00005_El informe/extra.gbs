@@ -13,7 +13,3 @@ function colorEstudiantes() {
 function cantidadEstudiantes() {
   return (nroBolitas(colorEstudiantes()))
 }
-
-procedure EntregarNetbooks(cantidad) {
-  PonerN(cantidad, colorNetbooks())
-}
