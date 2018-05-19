@@ -1,1 +1,2 @@
-Aunque pueda parecer que es un procedimiento complejo, la solución no debería tener más de 4 líneas, porque ya nos encargamos en los puntos anteriores de resolver la mayoría de las subtareas que necesitás usar acá.
+- Aunque pueda parecer que es un procedimiento complejo, la solución no debería tener más de 4 líneas, porque ya nos encargamos en los puntos anteriores de resolver la mayoría de las subtareas que necesitás usar acá;
+- las netbooks que hacen falta se calculan a partir de la cantidad de estudiantes y de la cantidad de netbooks que ya hay en la escuela.
